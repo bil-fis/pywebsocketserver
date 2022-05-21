@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pywebsocketserver3",
-    version="1.0",
+    version="1.1",
     description="python的websocket server, 更新为py3.9版本",
     author="suxianbaozi",
     platforms="any",

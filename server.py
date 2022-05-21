@@ -3,7 +3,7 @@
 import socket
 import time
 
-from thread import SocketIoThread
+from pywebsocketserver3.thread import SocketIoThread
 
 class SocketServer:
     def __init__(self,port,IO):
