@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pywebsocketserver3
+Version: 1.0
+Summary: python的websocket server, 更新为py3.9版本
+Home-page: https://github.com/suxianbaozi
+Author: suxianbaozi
+Author-email: 12qiushi@163.com
+License: UNKNOWN
+Platform: any
+Requires-Python: >=2.9
+
+UNKNOWN
+

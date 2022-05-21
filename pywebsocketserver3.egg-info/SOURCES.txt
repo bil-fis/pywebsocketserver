@@ -1,0 +1,5 @@
+setup.py
+pywebsocketserver3.egg-info/PKG-INFO
+pywebsocketserver3.egg-info/SOURCES.txt
+pywebsocketserver3.egg-info/dependency_links.txt
+pywebsocketserver3.egg-info/top_level.txt
